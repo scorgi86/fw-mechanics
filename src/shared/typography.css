@@ -1,0 +1,49 @@
+/* Font Family */
+.fw-font-sans { font-family: ui-sans-serif, system-ui, sans-serif; }
+.fw-font-serif { font-family: ui-serif, Georgia, serif; }
+.fw-font-mono { font-family: ui-monospace, monospace; }
+
+/* Font Size */
+.fw-text-xs { font-size: 0.75rem; line-height: 1rem; }
+.fw-text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+.fw-text-base { font-size: 1rem; line-height: 1.5rem; }
+.fw-text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+.fw-text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+/* ... можно добавить больше размеров */
+
+/* Font Weight */
+.fw-font-thin { font-weight: 100; }
+.fw-font-light { font-weight: 300; }
+.fw-font-normal { font-weight: 400; }
+.fw-font-medium { font-weight: 500; }
+.fw-font-semibold { font-weight: 600; }
+.fw-font-bold { font-weight: 700; }
+.fw-font-extrabold { font-weight: 800; }
+
+/* Text Alignment */
+.fw-text-left { text-align: left; }
+.fw-text-center { text-align: center; }
+.fw-text-right { text-align: right; }
+.fw-text-justify { text-align: justify; }
+
+/* Text Decoration */
+.fw-underline { text-decoration: underline; }
+.fw-line-through { text-decoration: line-through; }
+.fw-no-underline { text-decoration: none; }
+
+/* Text Transform */
+.fw-uppercase { text-transform: uppercase; }
+.fw-lowercase { text-transform: lowercase; }
+.fw-capitalize { text-transform: capitalize; }
+.fw-normal-case { text-transform: none; }
+
+/* Line Height */
+.fw-leading-none { line-height: 1; }
+.fw-leading-tight { line-height: 1.25; }
+.fw-leading-normal { line-height: 1.5; }
+.fw-leading-loose { line-height: 2; }
+
+/* Letter Spacing */
+.fw-tracking-tight { letter-spacing: -0.025em; }
+.fw-tracking-normal { letter-spacing: 0; }
+.fw-tracking-wide { letter-spacing: 0.025em; }

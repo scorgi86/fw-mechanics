@@ -1,0 +1,20 @@
+/* Text Colors */
+.fw-text-primary-500 { color: var(--fw-color-primary-500); }
+.fw-text-gray-700 { color: var(--fw-color-gray-700); }
+.fw-text-success { color: var(--fw-color-success); }
+.fw-text-error { color: var(--fw-color-error); }
+.fw-text-white { color: var(--fw-color-white); }
+.fw-text-black { color: var(--fw-color-black); }
+
+/* Background Colors */
+.fw-bg-primary-100 { background-color: var(--fw-color-primary-100); }
+.fw-bg-gray-50 { background-color: var(--fw-color-gray-50); }
+.fw-bg-success { background-color: var(--fw-color-success); }
+.fw-bg-error { background-color: var(--fw-color-error); }
+.fw-bg-white { background-color: var(--fw-color-white); }
+.fw-bg-transparent { background-color: transparent; }
+
+/* Border Colors */
+.fw-border-primary-500 { border-color: var(--fw-color-primary-500); }
+.fw-border-gray-300 { border-color: var(--fw-color-gray-300); }
+.fw-border-error { border-color: var(--fw-color-error); }

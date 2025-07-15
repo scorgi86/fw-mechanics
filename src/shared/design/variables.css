@@ -1,0 +1,101 @@
+:root {
+  /* === Spacing === */
+  --fw-space-0: 0;
+  --fw-space-1: 0.25rem;   /* 4px */
+  --fw-space-2: 0.5rem;     /* 8px */
+  --fw-space-3: 0.75rem;    /* 12px */
+  --fw-space-4: 1rem;       /* 16px */
+  --fw-space-5: 1.25rem;    /* 20px */
+  --fw-space-6: 1.5rem;     /* 24px */
+  --fw-space-8: 2rem;       /* 32px */
+  --fw-space-10: 2.5rem;    /* 40px */
+  --fw-space-12: 3rem;      /* 48px */
+
+  /* === Colors === */
+  /* Primary */
+  --fw-color-primary-50: #eff6ff;
+  --fw-color-primary-100: #dbeafe;
+  --fw-color-primary-200: #bfdbfe;
+  --fw-color-primary-300: #93c5fd;
+  --fw-color-primary-400: #60a5fa;
+  --fw-color-primary-500: #3b82f6;
+  --fw-color-primary-600: #2563eb;
+  --fw-color-primary-700: #1d4ed8;
+  --fw-color-primary-800: #1e40af;
+  --fw-color-primary-900: #1e3a8a;
+
+  /* Gray */
+  --fw-color-gray-50: #f9fafb;
+  --fw-color-gray-100: #f3f4f6;
+  --fw-color-gray-200: #e5e7eb;
+  --fw-color-gray-300: #d1d5db;
+  --fw-color-gray-400: #9ca3af;
+  --fw-color-gray-500: #6b7280;
+  --fw-color-gray-600: #4b5563;
+  --fw-color-gray-700: #374151;
+  --fw-color-gray-800: #1f2937;
+  --fw-color-gray-900: #111827;
+
+  /* Semantic */
+  --fw-color-success: #10b981;
+  --fw-color-error: #ef4444;
+  --fw-color-warning: #f59e0b;
+  --fw-color-info: #3b82f6;
+  --fw-color-white: #ffffff;
+  --fw-color-black: #000000;
+
+  /* === Typography === */
+  /* Font Family */
+  --fw-font-sans: system-ui, -apple-system, sans-serif;
+  --fw-font-serif: Georgia, serif;
+  --fw-font-mono: ui-monospace, monospace;
+
+  /* Font Size */
+  --fw-text-xs: 0.75rem;     /* 12px */
+  --fw-text-sm: 0.875rem;     /* 14px */
+  --fw-text-base: 1rem;       /* 16px */
+  --fw-text-lg: 1.125rem;     /* 18px */
+  --fw-text-xl: 1.25rem;      /* 20px */
+  --fw-text-2xl: 1.5rem;      /* 24px */
+  --fw-text-3xl: 1.875rem;    /* 30px */
+  --fw-text-4xl: 2.25rem;     /* 36px */
+  --fw-text-5xl: 3rem;        /* 48px */
+
+  /* Line Height */
+  --fw-leading-none: 1;
+  --fw-leading-tight: 1.25;
+  --fw-leading-snug: 1.375;
+  --fw-leading-normal: 1.5;
+  --fw-leading-relaxed: 1.625;
+  --fw-leading-loose: 2;
+
+  /* Font Weight */
+  --fw-font-light: 300;
+  --fw-font-normal: 400;
+  --fw-font-medium: 500;
+  --fw-font-semibold: 600;
+  --fw-font-bold: 700;
+  --fw-font-extrabold: 800;
+
+  /* === Borders === */
+  --fw-border-width-1: 1px;
+  --fw-border-width-2: 2px;
+  --fw-border-width-4: 4px;
+  --fw-rounded-none: 0;
+  --fw-rounded-sm: 0.125rem;    /* 2px */
+  --fw-rounded: 0.25rem;        /* 4px */
+  --fw-rounded-md: 0.375rem;    /* 6px */
+  --fw-rounded-lg: 0.5rem;      /* 8px */
+  --fw-rounded-xl: 0.75rem;     /* 12px */
+  --fw-rounded-2xl: 1rem;       /* 16px */
+  --fw-rounded-full: 9999px;
+
+  /* === Shadows === */
+  --fw-shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --fw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  --fw-shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --fw-shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --fw-shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  --fw-shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  --fw-shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+}

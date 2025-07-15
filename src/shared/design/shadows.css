@@ -1,0 +1,6 @@
+.fw-shadow-sm { box-shadow: var(--fw-shadow-sm); }
+.fw-shadow { box-shadow: var(--fw-shadow); }
+.fw-shadow-md { box-shadow: var(--fw-shadow-md); }
+.fw-shadow-lg { box-shadow: var(--fw-shadow-lg); }
+.fw-shadow-xl { box-shadow: var(--fw-shadow-xl); }
+.fw-shadow-inner { box-shadow: var(--fw-shadow-inner); }

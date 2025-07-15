@@ -1,0 +1,16 @@
+/* Border Width */
+.fw-border { border-width: var(--fw-border-width-1); }
+.fw-border-2 { border-width: var(--fw-border-width-2); }
+.fw-border-4 { border-width: var(--fw-border-width-4); }
+
+/* Border Radius */
+.fw-rounded-none { border-radius: var(--fw-rounded-none); }
+.fw-rounded-sm { border-radius: var(--fw-rounded-sm); }
+.fw-rounded { border-radius: var(--fw-rounded); }
+.fw-rounded-lg { border-radius: var(--fw-rounded-lg); }
+.fw-rounded-full { border-radius: var(--fw-rounded-full); }
+
+/* Border Style */
+.fw-border-solid { border-style: solid; }
+.fw-border-dashed { border-style: dashed; }
+.fw-border-dotted { border-style: dotted; }
